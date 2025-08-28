@@ -170,35 +170,35 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Quick Show",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Quick Show is a web-based ticket booking application that enables users to search, book, and manage tickets for movies, events, and shows, offering a fast and convenient booking experience..",
     tags: [
       { name: "react", color: "blue-text-gradient" },
       { name: "mongodb", color: "green-text-gradient" },
       { name: "tailwind", color: "pink-text-gradient" },
     ],
     image: carrent,
-    source_code_link: "https://github.com/youknowom/car-rent",
-    live_demo_link: "https://car-rent-demo.vercel.app", // 👈 add this
+    source_code_link: "https://github.com/youknowom/QuickShow",
+    live_demo_link: "https://quick-show-brown.vercel.app/",
   },
   {
-    name: "Job IT",
+    name: "Resume Builder",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A web application that allows users to create, customize, and download professional resumes using pre-designed templates and easy-to-use editing tools.",
     tags: [
       { name: "react", color: "blue-text-gradient" },
       { name: "restapi", color: "green-text-gradient" },
       { name: "scss", color: "pink-text-gradient" },
     ],
     image: jobit,
-    source_code_link: "https://github.com/youknowom/job-it",
-    live_demo_link: "https://job-it-demo.vercel.app", // 👈 add this
+    source_code_link: "https://github.com/youknowom/resume-builder",
+    live_demo_link: "https://resume-builder-youknowom.vercel.app/", // 👈 add this
   },
   {
-    name: "Trip Guide",
+    name: "Crowd Shield",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Crowd Shield is a smart system designed for tracking and controlling crow populations using modern monitoring and management techniques, helping reduce disturbances and maintaining a balanced environment.",
     tags: [
       { name: "nextjs", color: "blue-text-gradient" },
       { name: "supabase", color: "green-text-gradient" },
@@ -206,7 +206,7 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/youknowom/trip-guide",
-    live_demo_link: "https://trip-guide-demo.vercel.app", // 👈 add this
+    live_demo_link: "https://safety-stream-ai.vercel.app/", // 👈 add this
   },
 ];
 
